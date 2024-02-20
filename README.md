@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React Projects
-- 🌱 I’m currently learning React and Angular
+- 🔭 I’m currently working on React and Angular Projects
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with Data structure and ALgorithm
 - 💬 Ask me about ...
